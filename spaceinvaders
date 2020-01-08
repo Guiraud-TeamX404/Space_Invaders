@@ -1,9 +1,27 @@
 Différents élements du projet :
     - Monstres
+        - Design
+        - Déplacement
+        - Gestion des bordures
+        (3 Types de monstres)
     - Vaisseaux
+        - Design
+        - Déplacement
+        - Gestion des bordures
     - Tirs
-    - Blocks de protection
+        - Design
+        - Vitesse
+        - Trajectoires
+        - Colisions (Vaisseaux/Monstres/Blocks/Autres missiles)
+    - Blocks de protection 
+        - Design
+        - Dégât lors des Tirs
     - Vies 
+        - Design
+        - Nombre de vies
+        - Pertes d'une vie lorsqu'un missile touche le Vaisseau
     - Score 
-    - Interface de présentation (Play/Quit)
-    
+        - Design
+        - Nombres de points en fonction des monstres tués et du nombre de Vies
+    - Interface de présentation (Play/Quit)(Si temps)
+        - Design
